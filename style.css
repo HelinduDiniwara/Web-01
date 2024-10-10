@@ -1,0 +1,24 @@
+.img{
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.menu{
+    display: flex;
+    
+    
+}
+.item1{
+    margin: 20px;
+}
+.item2{
+    margin: 20px;
+}
+.item3{
+    margin: 20px;
+}
+.item4{
+    margin: 20px;
+}
